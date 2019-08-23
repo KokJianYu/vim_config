@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jykok/kubeExtraFolder'
+let g:netrw_dirhist_2='/mnt/CEPH_AIPLATFORM/haozhang/test_v4_2'
+let g:netrw_dirhist_3='/mnt/CEPH_AIPLATFORM/haozhang/test_v4'
+let g:netrw_dirhist_4='/home/jykok/.vim'
